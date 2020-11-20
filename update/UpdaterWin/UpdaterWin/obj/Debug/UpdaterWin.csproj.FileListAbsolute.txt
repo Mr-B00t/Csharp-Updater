@@ -1,0 +1,10 @@
+C:\Users\MrB00t\Desktop\update\UpdaterWin\UpdaterWin\bin\Debug\UpdaterWin.exe.config
+C:\Users\MrB00t\Desktop\update\UpdaterWin\UpdaterWin\bin\Debug\UpdaterWin.exe
+C:\Users\MrB00t\Desktop\update\UpdaterWin\UpdaterWin\bin\Debug\UpdaterWin.pdb
+C:\Users\MrB00t\Desktop\update\UpdaterWin\UpdaterWin\obj\Debug\UpdaterWin.csprojAssemblyReference.cache
+C:\Users\MrB00t\Desktop\update\UpdaterWin\UpdaterWin\obj\Debug\UpdaterWin.Form1.resources
+C:\Users\MrB00t\Desktop\update\UpdaterWin\UpdaterWin\obj\Debug\UpdaterWin.Properties.Resources.resources
+C:\Users\MrB00t\Desktop\update\UpdaterWin\UpdaterWin\obj\Debug\UpdaterWin.csproj.GenerateResource.cache
+C:\Users\MrB00t\Desktop\update\UpdaterWin\UpdaterWin\obj\Debug\UpdaterWin.csproj.CoreCompileInputs.cache
+C:\Users\MrB00t\Desktop\update\UpdaterWin\UpdaterWin\obj\Debug\UpdaterWin.exe
+C:\Users\MrB00t\Desktop\update\UpdaterWin\UpdaterWin\obj\Debug\UpdaterWin.pdb

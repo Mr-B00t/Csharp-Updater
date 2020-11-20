@@ -1,0 +1,7 @@
+C:\Users\MrB00t\Desktop\update\UpdaterCons\UpdaterCons\bin\Debug\UpdaterCons.exe.config
+C:\Users\MrB00t\Desktop\update\UpdaterCons\UpdaterCons\bin\Debug\UpdaterCons.exe
+C:\Users\MrB00t\Desktop\update\UpdaterCons\UpdaterCons\bin\Debug\UpdaterCons.pdb
+C:\Users\MrB00t\Desktop\update\UpdaterCons\UpdaterCons\obj\Debug\UpdaterCons.csprojAssemblyReference.cache
+C:\Users\MrB00t\Desktop\update\UpdaterCons\UpdaterCons\obj\Debug\UpdaterCons.csproj.CoreCompileInputs.cache
+C:\Users\MrB00t\Desktop\update\UpdaterCons\UpdaterCons\obj\Debug\UpdaterCons.exe
+C:\Users\MrB00t\Desktop\update\UpdaterCons\UpdaterCons\obj\Debug\UpdaterCons.pdb
